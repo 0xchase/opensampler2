@@ -10,3 +10,4 @@ Ideas for open source sample plugin
  - Create a bunch of plugins for tape simulation, etc so people can improve their sample libraries
  - Integrate some other UI designer
  - Can load Kontakt libraries
+ - Dynamically recompile UI as the user makes code changes

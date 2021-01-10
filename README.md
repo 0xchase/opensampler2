@@ -9,3 +9,4 @@ Ideas for open source sample plugin
  - Can host VCVRack modules
  - Create a bunch of plugins for tape simulation, etc so people can improve their sample libraries
  - Integrate some other UI designer
+ - Can load Kontakt libraries

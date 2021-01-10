@@ -8,4 +8,4 @@ Ideas for open source sample plugin
  - Could design plugin using Max 8???
  - Can host VCVRack modules
  - Create a bunch of plugins for tape simulation, etc so people can improve their sample libraries
- 
+ - Integrate some other UI designer

@@ -1,5 +1,5 @@
 # opensampler
-Ideas for open source sample plugin
+Ideas for open source sample plugin. Maybe augment decent sampler instead.
 
 ### Ideas
  - Use Julia language maybe??? Or Python or LUA.

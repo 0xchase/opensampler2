@@ -3,6 +3,7 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
 
 ### High Level Design
  - **Sample Loaders**: Takes a file or set of files, and maps it to keyboard
+   - Can load samples from logic or kontakt formats
  - **MIDI Effects**: Takes a midi input, and produces a midi output
  - **Audio Effects**: Various effects like reverb, granular, etc
  - **UI Designer**: Can add knobs, faders, etc in scripts
@@ -27,3 +28,4 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
 ### Promotion
  - Convert every pianobook library to this format programatically
  - Create amazing UIs
+ - Create several awesome libraries to adverties it

@@ -29,3 +29,4 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
  - Convert every pianobook library to this format programatically
  - Create amazing UIs
  - Create several awesome libraries to adverties it
+ - Fantastic documentation

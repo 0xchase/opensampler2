@@ -11,7 +11,7 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
  - **UI Designer**: Can add knobs, faders, etc in scripts
  - **Eurorack integration**: Features to integrate with modular synths
  - **Auto sampler**: Like sample robot, create sample library from VST using embedded VST host
- - **Other features**: Embed VCVRack plugins, 
+ - **Other features**: Embed VCVRack plugins, nice audio/midi visualizers
 
 ### Todo
  - Follow the audio programmer tutorial on building a sampler

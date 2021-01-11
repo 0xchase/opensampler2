@@ -3,9 +3,9 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
 
 ### High Level Design
  - **Preset Browser**: Can browse presets like normal. Can also browse, and automatically install/download pianobook instruments from inside the VST. Effects and plugins can be browsed the same way, but they are uploaded via the git repository.
+ - **Batch Sample Processor**: Can take some set of samples, and apply some transformation, effect, etc to them and re-export
  - **Sample Loaders**: Takes a file or set of files, and maps it to keyboard
    - Can load samples from logic or kontakt formats
- - **Batch Sample Processor**: Can take some set of samples, and apply some transformation, effect, etc to them
  - **MIDI Effects**: Takes a midi input, and produces a midi output
    - Arpegiators modeled after Olafur Arnalds piano. Scripting powerful enough to create grid like the spitfire one.
  - **Script Editor**: Embedded text editor for editing scripts

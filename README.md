@@ -1,6 +1,18 @@
 # opensampler
 Ideas for open source sample plugin. Maybe augment decent sampler instead.
 
+### High Level Design
+ - **Sample Loaders**: Takes a file or set of files, and maps it to keyboard
+ - **MIDI Effects**: Takes a midi input, and produces a midi output
+ - **Audio Effects**: Various effects like reverb, granular, etc
+ - **UI Designer**: Can add knobs, faders, etc in scripts
+ - **Eurorack integration**: Features to integrate with modular synths
+ - **Auto sampler**: Like sample robot, create sample library from VST using embedded VST host
+ - **Other features**: Embed VCVRack plugins, 
+
+### Todo
+ - Follow the audio programmer tutorial on building a sampler
+
 ### Ideas
  - Use Julia language maybe??? Or Python or LUA.
  - Easy for people to write plugins in several languages
@@ -11,3 +23,7 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
  - Integrate some other UI designer
  - Can load Kontakt libraries
  - Dynamically recompile UI as the user makes code changes
+
+### Promotion
+ - Convert every pianobook library to this format programatically
+ - Create amazing UIs

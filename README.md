@@ -1,7 +1,7 @@
 # opensampler
 Ideas for open source sample plugin. Maybe augment decent sampler instead.
 
-![Demo image here](images/ui.png)
+![Demo image here](images/ui.png | width=200)
 
 ### High Level Design
  - **Preset Browser**: Can browse presets like normal. Can also browse, and automatically install/download pianobook instruments from inside the VST. Effects and plugins can be browsed the same way, but they are uploaded via the git repository.

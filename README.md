@@ -30,6 +30,8 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
  - Integrate some other UI designer
  - Can load Kontakt libraries
  - Dynamically recompile UI as the user makes code changes
+ - Deep integration with eurorack setups
+ - Scripting window for my generative language
 
 ### Promotion
  - Convert every pianobook library to this format programatically

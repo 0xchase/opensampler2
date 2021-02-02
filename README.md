@@ -28,10 +28,20 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
  - Can host VCVRack modules
  - Create a bunch of plugins for tape simulation, etc so people can improve their sample libraries
  - Integrate some other UI designer
- - Can load Kontakt libraries
  - Dynamically recompile UI as the user makes code changes
  - Deep integration with eurorack setups
  - Scripting window for my generative language
+
+### Layout
+ - Tools button in the corner, window is full screen.
+   - Sample, effects, etc downloader (pianobook, other sources). Maybe this is seperate from the main tabs.
+   - Batch sample processor (renderable ML effects, layer and export samples, paulstretch samples, etc)
+ - Preset browser button in the corner, window is full screen
+ - Some generative scripting language like tidalcycles
+ - MIDI effects (suite of generative modules)
+ - Selected samples and mapping
+ - Selected synths and mapping
+ - Audio effects and routing
 
 ### Promotion
  - Convert every pianobook library to this format programatically

@@ -37,7 +37,7 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
    - Sample, effects, etc downloader (pianobook, other sources). Maybe this is seperate from the main tabs.
    - Batch sample processor (renderable ML effects, layer and export samples, paulstretch samples, etc)
  - Preset browser button in the corner, window is full screen
- - Some generative scripting language like tidalcycles
+ - Some generative scripting language like tidalcycles. Use Haskell or maybe Julia.
  - MPE/MIDI effects (suite of generative modules)
  - Selected samples and mapping
  - Selected synths and mapping

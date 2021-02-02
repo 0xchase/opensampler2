@@ -8,7 +8,8 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
  - **Batch Sample Processor**: Can take some set of samples, and apply some transformation, effect, etc to them and re-export
  - **Sample Loaders**: Takes a file or set of files, and maps it to keyboard
  - **MIDI Effects**: Takes a midi input, and produces a midi output
-   - Arpegiators modeled after Olafur Arnalds piano. Scripting powerful enough to create grid like the spitfire one.
+   - Arpegiators modeled after Olafur Arnalds piano. Scripting powerful enough to create grid like the spitfire one
+   - Entire suite of generative effects
  - **Script Editor**: Embedded text editor for editing scripts
  - **Audio Effects**: Various effects like reverb, granular, etc
  - **UI Designer**: Can add knobs, faders, etc in scripts

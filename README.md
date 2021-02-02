@@ -7,7 +7,7 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
  - **Preset Browser**: Can browse presets like normal. Can also browse, and automatically install/download pianobook instruments from inside the VST. Effects and plugins can be browsed the same way, but they are uploaded via the git repository.
  - **Batch Sample Processor**: Can take some set of samples, and apply some transformation, effect, etc to them and re-export
  - **Sample Loaders**: Takes a file or set of files, and maps it to keyboard
- - **MIDI Effects**: Takes a midi input, and produces a midi output
+ - **MPE/MIDI Effects**: Takes a midi input, converts to MPE, and produces an MPE output
    - Arpegiators modeled after Olafur Arnalds piano. Scripting powerful enough to create grid like the spitfire one
    - Entire suite of generative effects
  - **Script Editor**: Embedded text editor for editing scripts
@@ -15,7 +15,7 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
  - **UI Designer**: Can add knobs, faders, etc in scripts
  - **Eurorack integration**: Features to integrate with modular synths
  - **Auto sampler**: Like sample robot, create sample library from VST using embedded VST host
- - **Other features**: Embed VCVRack plugins, nice audio/midi visualizers
+ - **Other features**: Embed VCVRack plugins, nice audio/mpe visualizers
 
 ### Todo
  - Follow the audio programmer tutorial on building a sampler
@@ -38,7 +38,7 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
    - Batch sample processor (renderable ML effects, layer and export samples, paulstretch samples, etc)
  - Preset browser button in the corner, window is full screen
  - Some generative scripting language like tidalcycles
- - MIDI effects (suite of generative modules)
+ - MPE/MIDI effects (suite of generative modules)
  - Selected samples and mapping
  - Selected synths and mapping
  - Audio effects and routing

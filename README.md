@@ -48,3 +48,7 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
  - Create amazing UIs
  - Create several awesome libraries to advertise it
  - Fantastic documentation
+ - Get a bunch of YouTube composers to make sample libraries for it
+ - Get it promoted by Benn and Gear, Venus Theory, etc
+ - Email a bunch of eurorack modular people, showing how it can be used in their setups
+ - Email a bunch of YouTube composers, showing how it can be used in their setups

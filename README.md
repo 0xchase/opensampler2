@@ -1,6 +1,15 @@
 # opensampler
 Ideas for open source sample plugin. Maybe augment decent sampler instead.
 
+## Todo
+ - Integrate SamplerPluginDemo JUCE demo with OpenSampler
+ - Get tabbed component working
+ - Start filling out UI
+ - Start on Julia integration
+
+
+---
+
 ## Core Features
  - Sampler like kontakt
  - Package manager for uploading/downloading samples
@@ -10,6 +19,8 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
  - Machine learning integration
  - Automated sample importing and manipulation
  - Can samplerobot a DAW channel
+ 
+ ---
 
 ## UI Design
 ### Special Windows

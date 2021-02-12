@@ -1,7 +1,15 @@
 # opensampler
 Ideas for open source sample plugin. Maybe augment decent sampler instead.
 
-![Demo image here](images/ui.png)
+## Core Features
+ - Sampler like kontakt
+ - Package manager for uploading/downloading samples
+ - Node-based midi and audio effects
+ - Audio/midi plugins can be written in Julia
+ - Built-in IDE
+ - Machine learning integration
+ - Automated sample importing and manipulation
+ - Can samplerobot a DAW channel
 
 ## UI Design
 ### Special Windows
@@ -23,19 +31,8 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
 
 ---
 
-### Layout
- - Tools button in the corner, window is full screen.
-   - Sample, effects, etc downloader (pianobook, other sources). Maybe this is seperate from the main tabs.
-   - Batch sample processor (renderable ML effects, layer and export samples, paulstretch samples, etc)
- - Preset browser button in the corner, window is full screen
- - Some generative scripting language like tidalcycles. Use Julia or Faust since they can JIT. Can view source for any effect/module.
- - MPE/MIDI effects (suite of generative modules)
- - Selected samples and mapping
- - Selected synths and mapping
- - Audio effects and routing
-
 ### Promotion
  - Convert every pianobook library to this format programatically
  - Create amazing UIs
- - Create several awesome libraries to adverties it
+ - Create several awesome libraries to advertise it
  - Fantastic documentation

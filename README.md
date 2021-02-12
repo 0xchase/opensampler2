@@ -6,6 +6,7 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
  - Get tabbed component working
  - Start filling out UI
  - Start on Julia integration
+ - Get CodeEditor JUCE demo integrated
 
 
 ---

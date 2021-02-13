@@ -61,3 +61,4 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
    - Premium sample libraries
    - Crowdsouce hiring instrumentalists to make professional sample library
    - Discord
+ - Get startup shell funding to host servers, buy things to sample

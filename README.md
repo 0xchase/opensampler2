@@ -45,3 +45,4 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
    - Crowdsouce hiring instrumentalists to make professional sample library
    - Discord
  - Get startup shell funding to host servers, buy things to sample
+ - People signed up to Patreon get access to premium samples. People can submit premium samples. 50% of patreon gets distributed to people who make premium samples based on how often the library is used.

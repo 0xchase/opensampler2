@@ -8,19 +8,8 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
  - Start on Julia integration
  - Get CodeEditor JUCE demo integrated
 
----
-
-## Core Features
- - Sampler like kontakt
- - Package manager for uploading/downloading samples
- - Node-based midi and audio effects
- - Audio/midi plugins can be written in Julia
- - Built-in IDE
- - Machine learning integration
- - Automated sample importing and manipulation
- - Can samplerobot a DAW channel
- 
  ---
+ 
 ## UI Design
 ### Core Tabs
  - **Instrument Browser**: Full screen catergorized instrument browser like Omnisphere
@@ -29,10 +18,11 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
  - **Modular View**: All-in-one modular view for midi/mpe and audio. Some nodes promote to main view automatically.
 
 ### Special Windows
- - **Instrument Manager**: Can browse and install instruments from the web. Render description and preview for each instrument.
- - **Batch Sample Processor**: Can take some set of samples, and apply some transformation, effect, etc to them and re-export
+ - **Package Manager**: Can browse and install instruments from the web. Render description and preview for each instrument.
+ - **Batch Processor**: Apply transformation to samples. Machine learning here.
  - **Auto sampler**: Like sample robot, create sample library from VST using embedded VST host
  - **Effect Modeler**: Like Kemper amp modeling, can capture tone transfer with convolution. 
+ - **Script Editor**: For editing nodes, etc
 
 ---
 

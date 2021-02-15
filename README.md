@@ -23,6 +23,13 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
  - **Auto sampler**: Like sample robot, create sample library from VST using embedded VST host
  - **Effect Modeler**: Like Kemper amp modeling, can capture tone transfer with convolution. 
  - **Script Editor**: For editing nodes, etc
+ 
+### Exporting
+ - Entire instrument exportable as standalone library. Uses simplified only-main-view plugin host.
+ - MIDI effects nodes exportable as midi effect
+ - Audio effects nodes exportable as audio effect
+ - Exportable to run on eurorack module with Elk Audio OS???
+ - 
 
 ---
 
@@ -46,4 +53,4 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
    - Discord
  - Get startup shell funding to host servers, buy things to sample
  - People signed up to Patreon get access to premium samples. People can submit premium samples. 50% of patreon gets distributed to people who make premium samples based on how often the library is used.
- - People can submit their patches to be sold as products for $30-$100. They get half. 
+ - People can submit their patches to be sold as products for usually $30. They get half. 

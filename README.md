@@ -8,7 +8,6 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
  - Start on Julia integration
  - Get CodeEditor JUCE demo integrated
 
-
 ---
 
 ## Core Features
@@ -33,6 +32,8 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
  - **Instrument Manager**: Can browse and install instruments from the web. Render description and preview for each instrument.
  - **Batch Sample Processor**: Can take some set of samples, and apply some transformation, effect, etc to them and re-export
  - **Auto sampler**: Like sample robot, create sample library from VST using embedded VST host
+ - **Effect Modeler**: Like Kemper amp modeling, can capture tone transfer with convolution. 
+
 ---
 
 ### Promotion

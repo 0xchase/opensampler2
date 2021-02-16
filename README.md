@@ -7,6 +7,10 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
  - Start filling out UI
  - Start on Julia integration
  - Get CodeEditor JUCE demo integrated
+ 
+## Tab Options
+ - Instrument browser, main view, modular view behind main view, sample editor
+ - Main view, batch processor, sample editor, modular view
 
  ---
  

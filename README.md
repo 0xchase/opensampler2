@@ -18,7 +18,6 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
  
 ## UI Design
 ### Core Tabs
- - **Package Manager**: Internet connected package manager
  - **Instrument Browser**: Full screen catergorized instrument browser like Omnisphere
  - **Main View**: Main custon view for the instrument and preset
  - **Modular View**: All-in-one modular view for midi/mpe and audio. Some nodes promote to main view automatically.

@@ -12,22 +12,26 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
  - Instrument browser, main view, modular view behind main view, sample editor
  - Main view, batch processor, sample editor, modular view
  - Main view full screen, behind it is batch processor, modular, auto sampler, etc
+ - Package manager, batch processor, auto sampler, 
 
  ---
  
 ## UI Design
 ### Core Tabs
+ - **Package Manager**: Internet connected package manager
  - **Instrument Browser**: Full screen catergorized instrument browser like Omnisphere
  - **Main View**: Main custon view for the instrument and preset
- - **Sample Editor**: Map files to keyboard, can edit individual files
  - **Modular View**: All-in-one modular view for midi/mpe and audio. Some nodes promote to main view automatically.
+ - **Utilities**: Combined view for batch processor, auto sampler, effects modeler, etc
 
 ### Special Windows
  - **Package Manager**: Can browse and install instruments from the web. Render description and preview for each instrument.
+ - **Script Editor**: For editing nodes, etc
+
+### Utilities
  - **Batch Processor**: Apply transformation to samples. Machine learning here.
  - **Auto sampler**: Like sample robot, create sample library from VST using embedded VST host
  - **Effect Modeler**: Like Kemper amp modeling, can capture tone transfer with convolution. 
- - **Script Editor**: For editing nodes, etc
  
 ### Exporting
  - Entire instrument exportable as standalone library. Uses simplified only-main-view plugin host.

@@ -29,7 +29,9 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
  - MIDI effects nodes exportable as midi effect
  - Audio effects nodes exportable as audio effect
  - Exportable to run on eurorack module with Elk Audio OS???
- - 
+ 
+### Other
+ - Push 2 display integration for sample manipulation. Reference [here](https://github.com/Ableton/push2-display-with-juce)
 
 ---
 

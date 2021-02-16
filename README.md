@@ -11,6 +11,7 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
 ## Tab Options
  - Instrument browser, main view, modular view behind main view, sample editor
  - Main view, batch processor, sample editor, modular view
+ - Main view full screen, behind it is batch processor, modular, auto sampler, etc
 
  ---
  

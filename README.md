@@ -7,30 +7,21 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
  - Start filling out UI
  - Start on Julia integration
  - Get CodeEditor JUCE demo integrated
- 
-## Tab Options
- - Instrument browser, main view, modular view behind main view, sample editor
- - Main view, batch processor, sample editor, modular view
- - Main view full screen, behind it is batch processor, modular, auto sampler, etc
- - Package manager, batch processor, auto sampler, 
 
  ---
  
 ## UI Design
 ### Core Tabs
- - **Instrument Browser**: Full screen catergorized instrument browser like Omnisphere
+ - **Instrument Browser/Downloader**: Full screen catergorized instrument browser like Omnisphere
  - **Main View**: Main custon view for the instrument and preset
  - **Modular View**: All-in-one modular view for midi/mpe and audio. Some nodes promote to main view automatically.
  - **Utilities**: Combined view for batch processor, auto sampler, effects modeler, etc
+   - **Batch Processor**: Apply transformation to samples. Machine learning here.
+   - **Auto sampler**: Like sample robot, create sample library from VST using embedded VST host
+   - **Effect Modeler**: Like Kemper amp modeling, can capture tone transfer with convolution. 
 
 ### Special Windows
- - **Package Manager**: Can browse and install instruments from the web. Render description and preview for each instrument.
  - **Script Editor**: For editing nodes, etc
-
-### Utilities
- - **Batch Processor**: Apply transformation to samples. Machine learning here.
- - **Auto sampler**: Like sample robot, create sample library from VST using embedded VST host
- - **Effect Modeler**: Like Kemper amp modeling, can capture tone transfer with convolution. 
  
 ### Exporting
  - Entire instrument exportable as standalone library. Uses simplified only-main-view plugin host.

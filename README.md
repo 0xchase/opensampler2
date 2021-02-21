@@ -30,7 +30,7 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
  
 ### Other
  - Push 2 display integration for sample manipulation. Reference [here](https://github.com/Ableton/push2-display-with-juce)
-
+ - Build it for iPad/iPhone also. Priced at 9.99.
 ---
 
 ### Promotion

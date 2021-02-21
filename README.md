@@ -1,10 +1,7 @@
 # opensampler
 Ideas for open source sample plugin. Maybe augment decent sampler instead.
 
-## Todo
- - Integrate SamplerPluginDemo JUCE demo with OpenSampler
- - Get tabbed component working
- - Start filling out UI
+ - Fill out UI
  - Start on Julia integration
  - Get CodeEditor JUCE demo integrated
 
@@ -22,15 +19,25 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
 
 ### Special Windows
  - **Script Editor**: For editing nodes, etc
- 
-### Exporting
- - Entire instrument exportable as standalone library
- - There's a "folder" modular node, can export as audio plugin
- - Export something to run on eurorack module with Elk Audio OS???
- 
-### Other
- - Push 2 display integration for sample manipulation. Reference [here](https://github.com/Ableton/push2-display-with-juce)
- - Build it for iPad/iPhone also. Priced at 9.99.
+
+---
+
+## Node ideas
+### Cool nodes
+ - Connect to muse to control with mind (premium node)
+ - Folder modular node can be exported as standalone effects plugin
+ - Customizable grid node like spitfire
+
+### Audio Effects
+ - Standard gain, filter, reverb, etc
+
+### MIDI Effects
+ - Olafur piano node
+
+## Batch Processing Ideas
+ - Export instrument/preset as standalone plugin
+ - Export modular nodes as audio/midi effects plugin
+
 ---
 
 ### Promotion
@@ -54,3 +61,7 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
  - Get startup shell funding to host servers, buy things to sample
  - People signed up to Patreon get access to premium samples. People can submit premium samples. 50% of patreon gets distributed to people who make premium samples based on how often the library is used.
  - People can submit their patches to be sold as products for usually $30. They get half. 
+
+### Other
+ - Push 2 display integration for sample manipulation. Reference [here](https://github.com/Ableton/push2-display-with-juce)
+ - Build it for iPad/iPhone also. Priced at 9.99.

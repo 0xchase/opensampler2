@@ -3,6 +3,7 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
 
  - Fill out UI
  - Start on Julia integration
+ - Start on Faust integration (example [here](https://youtu.be/INlqClEOhak))
  - Get CodeEditor JUCE demo integrated
 
  ---

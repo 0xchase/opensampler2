@@ -40,6 +40,15 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
 
 ---
 
+### Cool Demos
+ - Feed EEG from muse into node
+ - Feed phone accelerometer into node, dancer puts phone in pocket, live performancee adapts to dancing
+ - Search latent space of piano sound or midi GAN
+ - Run on eurorack module using Elk audio OS
+ - Edit reverb algorithm on the fly
+
+---
+
 ### Promotion
  - Convert every pianobook library to this format programatically
  - Create amazing UIs

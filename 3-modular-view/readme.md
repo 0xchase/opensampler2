@@ -8,3 +8,7 @@
  - Amp simulators
  - Phone accelerometer
  - Muse connector
+ - Basic oscillator
+ - Wavetable oscillator (with promotable custom UI element for main view)
+ - Mixer
+ - Various physical modeling synths

@@ -2,6 +2,7 @@
 
 ### General
  - When signal goes through wire, animate wire in a subtle way with recoloring or something
+ - Make buttons/faders/etc nodes with location settings, graphic settings, etc inside. Don't do "promote to main view" checkboxes.
 
 ### Module Ideas
  - Modules from every Faust built in effect

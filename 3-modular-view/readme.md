@@ -4,6 +4,7 @@
  - When signal goes through wire, animate wire in a subtle way with recoloring or something
  - Make buttons/faders/etc nodes with location settings, graphic settings, etc inside. Don't do "promote to main view" checkboxes.
  - Adding a button/fader/etc in faust code adds it to that nodes panel
+ - While dragging wire, highlight all contact points that can connect to it
 
 ### Module Ideas
  - Modules from every Faust built in effect

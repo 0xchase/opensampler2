@@ -61,6 +61,7 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
  - Email a bunch of YouTube composers, showing how it can be used in their setups
 
 ### Monitization
+ - Jack and I each get paid for the modules/instruments we develop
  - License people to sell sample libraries with it
  - Patreon
    - Advanced usage tutorials

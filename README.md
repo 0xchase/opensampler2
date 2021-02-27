@@ -52,7 +52,9 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
    - Discord
  - Get startup shell funding to host servers, buy things to sample
  - People signed up to Patreon get access to premium samples. People can submit premium samples. 50% of patreon gets distributed to people who make premium samples based on how often the library is used.
- - People can submit their patches to be sold as products for usually $30. They get half. 
+ - People can submit their patches to be sold as products for usually $30. They get half. (Don't commercialize too much)
+ - iPad app build for 9.99
+ - Eurorack module for $599
 
 ### Other
  - Push 2 display integration for sample manipulation. Reference [here](https://github.com/Ableton/push2-display-with-juce)

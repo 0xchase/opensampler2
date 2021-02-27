@@ -49,7 +49,7 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
    - Advanced coding tutorials
    - Premium sample libraries
    - Crowdsouce hiring instrumentalists to make professional sample library
-   - Discord
+   - Premium channels in the Discord
  - Get startup shell funding to host servers, buy things to sample
  - People signed up to Patreon get access to premium samples. People can submit premium samples. 50% of patreon gets distributed to people who make premium samples based on how often the library is used.
  - People can submit their patches to be sold as products for usually $30. They get half. (Don't commercialize too much)

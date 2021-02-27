@@ -55,6 +55,8 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
  - People can submit their patches to be sold as products for usually $30. They get half. (Don't commercialize too much)
  - iPad app build for 9.99
  - Eurorack module for $599
+ - Build sound design course like syntorial for $99
+ - Build programming course for $99
 
 ### Other
  - Push 2 display integration for sample manipulation. Reference [here](https://github.com/Ableton/push2-display-with-juce)

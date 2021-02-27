@@ -6,13 +6,17 @@
  - Adding a button/fader/etc in faust code adds it to that nodes panel
  - While dragging wire, highlight all contact points that can connect to it
 
+### Source Modules
+ - Basic oscillator
+ - Wavetable oscillator (with promotable custom UI element for main view)
+ - Various physical modeling synths
+ - Deep learning synth designer like in Yamaha Montage
+
+
 ### Audio Modules
  - Modules from every Faust built in effect
  - Amp simulators
- - Basic oscillator
- - Wavetable oscillator (with promotable custom UI element for main view)
  - Mixer
- - Various physical modeling synths
  - Convolution plugin
 
 ### CV/MIDI/MPE Modules

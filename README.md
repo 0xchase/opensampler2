@@ -23,24 +23,6 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
 
 ---
 
-## Node ideas
-### Cool nodes
- - Connect to muse to control with mind (premium node)
- - Folder modular node can be exported as standalone effects plugin
- - Customizable grid node like spitfire
-
-### Audio Effects
- - Standard gain, filter, reverb, etc
-
-### MIDI Effects
- - Olafur piano node
-
-## Batch Processing Ideas
- - Export instrument/preset as standalone plugin
- - Export modular nodes as audio/midi effects plugin
-
----
-
 ### Cool Demos
  - Feed EEG from muse into node
  - Feed phone accelerometer into node, dancer puts phone in pocket, live performancee adapts to dancing
@@ -51,8 +33,7 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
 ---
 
 ### Promotion
- - Convert every pianobook library to this format programatically
- - Create amazing UIs
+ - Convert every pianobook library to this format
  - Create several awesome libraries to advertise it
  - Fantastic documentation
  - Get a bunch of YouTube composers to make sample libraries for it

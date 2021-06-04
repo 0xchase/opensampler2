@@ -4,18 +4,12 @@
  - Import and play basic piano sample library
  - Node view implement basic C++ plugins
 
-### Instrument Format
- - `readme.md` contains the title and description
- - `instrument.cfg` contains the entire configuration for the instrument
-
-### Module Format
- - `readme.md` contains the title and description
- - `module.cfg` contains the config for the entire module
-
 ---
 
-## Instrument Configuration
-```
+## Instrument Format
+ - `readme.md` contains the title and description
+ - `instrument.cfg` contains the entire configuration for the instrument
+```xml
 <instrument>
   <name>chasetestlibrary</name>
   <title>Chase's Test Library</title>
@@ -62,5 +56,7 @@
 ```
 ---
 
-## Module Configuration
+## Module Format
+ - `readme.md` contains the title and description
+ - `module.cfg` contains the config for the entire module
 

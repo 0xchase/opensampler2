@@ -15,7 +15,7 @@
 ---
 
 ## Instrument Configuration
-
+```
 <instrument>
   <name>chasetestlibrary</name>
   <title>Chase's Test Library</title>
@@ -44,7 +44,7 @@
     </preset>
   </presets>
 </instrument>
-
+```
 ---
 
 ## Module Configuration

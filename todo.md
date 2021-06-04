@@ -26,12 +26,12 @@
   
   <dependencies>
     <modules>
-      <module name="defaultreverb" version="0.1.0">https://github.com/opensampler/defaultreverb.git</module>
-      <module name="defaultdelay" version="0.1.0">https://github.com/opensampler/defaultdelay.git</module>
+      <module version="0.1.0">https://github.com/opensampler/defaultreverb.git</module>
+      <module version="0.1.0">https://github.com/opensampler/defaultdelay.git</module>
     </modules>
     <samples>
-      <source name="piano1">https://chasekanipe.com/samples/piano1.zip</source>
-      <source name="piano2">https://chasekanipe.com/samples/piano2.zip</source>
+      <source>https://chasekanipe.com/samples/piano1.zip</source>
+      <source>https://chasekanipe.com/samples/piano2.zip</source>
     </samples>
   </dependencies>
   

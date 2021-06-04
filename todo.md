@@ -18,8 +18,8 @@
   
   <dependencies>
     <modules>
-      <module version="0.1.0">https://github.com/opensampler/defaultreverb.git</module>
-      <module version="0.1.0">https://github.com/opensampler/defaultdelay.git</module>
+      <module version="0.1.0" link="https://github.com/opensampler/defaultreverb.git"/>
+      <module version="0.1.0" link="https://github.com/opensampler/defaultdelay.git"/>
     </modules>
     <samples>
       <source name="piano1" link="https://chasekanipe.com/samples/piano1.zip"/>

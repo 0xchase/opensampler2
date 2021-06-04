@@ -37,9 +37,24 @@
   
   <presets>
     <preset>
-      <title>Preset title here</title>  
+      <name>basicambientpiano</name>
+      <title>Basic Ambient Piano</title>
       <module>
         <name>defaultreverb</name>
+        <parameters>
+          <parameter name="density">70</parameter>
+          <parameter name="decay">300</parameter>
+          <parameter name="dry/wet">50</parameter>
+        </parameters>
+        <inputs>
+         <input id="11">52</input>
+         <input id="12">54</input>
+         <input id="13">51</input>
+        </inputs>
+        <outputs>
+         <output id="51">101</output>
+         <output id="52">102</output>
+        </outputs>
       </module>
     </preset>
   </presets>

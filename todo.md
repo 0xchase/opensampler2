@@ -10,9 +10,7 @@
  - `readme.md` contains the title and description
  - `instrument.cfg` contains the entire configuration for the instrument
 ```xml
-<instrument>
-  <name>chasetestlibrary</name>
-  <title>Chase's Test Library</title>
+<instrument title="Chase's Test Library">
   <tags>
     <tag>piano</tag>
     <tag>dark</tag>
@@ -24,36 +22,29 @@
       <module version="0.1.0">https://github.com/opensampler/defaultdelay.git</module>
     </modules>
     <samples>
-      <source>https://chasekanipe.com/samples/piano1.zip</source>
-      <source>https://chasekanipe.com/samples/piano2.zip</source>
+      <source name="piano1" link="https://chasekanipe.com/samples/piano1.zip"/>
+      <source name="piano2" link="https://chasekanipe.com/samples/piano2.zip"/>
     </samples>
   </dependencies>
   
   <presets>
-    <preset>
-      <name>basicambientpiano</name>
-      <title>Basic Ambient Piano</title>
-      <module id="1">
-        <name>knob</name>
+    <preset title="Basic Ambient Piano">
+      <module id="1" name="knob" x="50" y="50">
         <parameters>
-          <parameter name="value">50</parameter>
-          <parameter name="displayx">400</parameter>
-          <parameter name="displayy">200</parameter>
+          <parameter name="value" value="50"/>
+          <parameter name="x" value="400"/>
+          <parameter name="y" value="200"/>
         </parameters>
       </module>
-      <module id="2">
-        <name>defaultreverb</name>
+      <module id="2" name="defaultreverb">
         <parameters>
-          <parameter name="density">70</parameter>
-          <parameter name="decay">300</parameter>
-          <parameter name="dry/wet">50</parameter>
+          <parameter name="density" value="70"/>
+          <parameter name="decay" value="300"/>
+          <parameter name="dry/wet" value="50"/>
         </parameters>
       </module>
       <connections>
-        <connection>
-          <source module="1">1</source>
-          <destination module="2">3<destination>
-        </connection>
+        <connection source_module="1" source_index="1" dest_module="2" dest_index="3"/>
       </connections>
     </preset>
   </presets>

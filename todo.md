@@ -37,6 +37,8 @@
         <name>knob</name>
         <parameters>
           <parameter name="value">50</parameter>
+          <parameter name="displayx">400</parameter>
+          <parameter name="displayy">200</parameter>
         </parameters>
       </module>
       <module id="2">

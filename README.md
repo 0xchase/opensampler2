@@ -8,6 +8,23 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
 
  ---
  
+ ## Company
+ ### Todo
+  - Come up with name
+    - Sample labs (used by someone else)
+    - Sonic labs (too simple)
+    - Timbre labs (difficult to pronounce???)
+    - ???
+
+ ### Website
+  - Blog for technical explanations of each project. Post each to reddit.
+  - Opensampler tab
+  - Tutorials tab, for getting started with audio machine learning, or scripting open sampler
+  - Tab for headless composition tool. Python bindings to Tracktion Engine.
+  - 
+ 
+ ---
+ 
 ## UI Design
 ### Core Tabs
  - **Instrument Browser/Downloader**: Full screen catergorized instrument browser like Omnisphere

@@ -17,12 +17,12 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
     - ???
 
  ### Website
-  - *Home*
-  - *Blog* for technical explanations of each project. Post each to reddit.
-  - *opensampler* tab
-  - *pydaw* tab
-  - *Tutorials* tab, for getting started with audio machine learning, or scripting open sampler
-  - *Services*
+  - **Home**
+  - **Blog** for technical explanations of each project. Post each to reddit.
+  - **Tools**: *Opensampler*, *pydaw*, *other*
+  - **Tutorials** tab, for getting started with audio machine learning, or scripting open sampler
+  - **Services**
+  - **Contact**
  
  ---
  

@@ -5,6 +5,7 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
  - Start on Julia integration
  - Start on Faust integration (example [here](https://youtu.be/INlqClEOhak)). Do Kadenze course. Do official [course](https://ccrma.stanford.edu/~rmichon/faustWorkshops/course2015/).
  - Get CodeEditor JUCE demo integrated
+ - Integrate projects from *GuitarML* github user
 
  ---
  

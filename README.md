@@ -17,11 +17,12 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
     - ???
 
  ### Website
-  - Blog for technical explanations of each project. Post each to reddit.
-  - Opensampler tab
-  - Tutorials tab, for getting started with audio machine learning, or scripting open sampler
-  - Tab for headless composition tool. Python bindings to Tracktion Engine.
-  - 
+  - *Home*
+  - *Blog* for technical explanations of each project. Post each to reddit.
+  - *opensampler* tab
+  - *pydaw* tab
+  - *Tutorials* tab, for getting started with audio machine learning, or scripting open sampler
+  - *Services*
  
  ---
  

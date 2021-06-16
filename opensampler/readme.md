@@ -1,7 +1,11 @@
 # opensampler
 
-### General
- - Has special package manager
+### Todo
+ - Fill out UI
+ - Start on Julia integration
+ - Start on Faust integration (example [here](https://youtu.be/INlqClEOhak)). Do Kadenze course. Do official [course](https://ccrma.stanford.edu/~rmichon/faustWorkshops/course2015/).
+ - Get CodeEditor JUCE demo integrated
+ - Integrate projects from *GuitarML* github user
 
 ### Layout
  - Main view is the *instrument view*, which can be flipped to the *modular view*

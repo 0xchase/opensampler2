@@ -10,12 +10,8 @@ Ideas for open source sample plugin. Maybe augment decent sampler instead.
  ---
  
  ## Company
- ### Todo
-  - Come up with name
-    - Sample labs (used by someone else)
-    - Sonic labs (too simple)
-    - Timbre labs (difficult to pronounce???)
-    - ???
+
+Named *Timbre Research*
 
  ### Website
   - **Home**

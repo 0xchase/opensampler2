@@ -1,13 +1,9 @@
 # Instruments
 
-This file is a repository for various opensampler (`.os`) files. The samples and modules are stored separatley. 
+This repository is for various opensampler (`.os`) files.
 
-### Plugin Version Control
- - Have a central gitlab/github repository file with an entry for each plugin
- - Entry contains a name, description, version, and a link to the plugin repository
- - Plugin repository has a readme with the name, description. Versions are branch names. Code in a file. 
- - Also contains a detailed overview, possibly with images, on how to use the plugin.
-
-### Instrument Version Control
- - Have a central gitlab/github repository with a folder for each instrument
- - Entry is a folder like `instrument/`, that contains everything except samples
+### General
+ - There is a central repository containing all the sampler files like `piano1`
+ - Local samplers will sync down this repository at any time
+ - Users can browse the various instruments, and preview them with the `preview.wav` file
+ - Clicking the download button will parse the config to download all the modules and samples

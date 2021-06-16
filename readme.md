@@ -20,21 +20,6 @@ Named *Timbre Research*
   - **Tutorials** tab, for getting started with audio machine learning, or scripting open sampler
   - **Services**
   - **Contact**
- 
- ---
- 
-## UI Design
-### Core Tabs
- - **Instrument Browser/Downloader**: Full screen catergorized instrument browser like Omnisphere
- - **Main View**: Main custon view for the instrument and preset
- - **Modular View**: All-in-one modular view for midi/mpe and audio. Some nodes promote to main view automatically.
- - **Utilities**: Combined view for batch processor, auto sampler, effects modeler, etc
-   - **Batch Processor**: Apply transformation to samples. Machine learning here.
-   - **Auto sampler**: Like sample robot, create sample library from VST using embedded VST host
-   - **Effect Modeler**: Like Kemper amp modeling, can capture tone transfer with convolution. 
-
-### Special Windows
- - **Script Editor**: For editing nodes, etc
 
 ---
 
